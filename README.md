@@ -1,6 +1,8 @@
 ## Weather-Forecast-Website ##
 Website using HTML, CSS, and JavaScript
+
 This project is a simple Weather Website that allows users to check the weather conditions for a specific location. It is built using HTML for the structure, CSS for styling, and JavaScript for dynamic functionality. The app fetches weather data and displays it in a user-friendly interface.
+
 👉 Features
 --> Location Search: Users can enter their desired location in the search box.
 --> Weather Information: The app displays the current temperature, weather description, and an icon representing the weather condition.
